@@ -10,7 +10,6 @@ int main() {
     printf("a && b = %d\n", a && b); 
     printf("a || b = %d\n", a || b); 
     printf("!a = %d\n", !a); 
-
     // Bitwise operators
     printf("\nBitwise Operators:\n");
     printf("x & y = %d\n", x & y);
